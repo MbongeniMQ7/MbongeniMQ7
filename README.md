@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mbongeni Qwabe
+# Hi there 👋, I'm Mbongeni Qwabe || Mbongrizzy
 
 ## 🚀 About Me
 I'm a Business Information Technology student, Software Developer, and aspiring Cybersecurity Expert from South Africa 🇿🇦.
@@ -57,8 +57,8 @@ I enjoy building modern web and mobile applications, solving real-world problems
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: linkedin.com/in/mbongeni-qwabe-88506140a
-- Portfolio: mbongeni-qwabe.vercel.app
+- LinkedIn: https://linkedin.com/in/mbongeni-qwabe-88506140a
+- Portfolio: https://mbongeni-qwabe.vercel.app
 - Email: qwabembongeni074@gmail.com
 
 ---

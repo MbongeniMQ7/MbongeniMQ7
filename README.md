@@ -1,14 +1,14 @@
-# Hi there 👋, I'm Mbongeni Qwabe || Mbongrizzy
+# Hi there 👋 I'm Mbongeni Qwabe | Mbongrizzy
 
 ## 🚀 About Me
-I'm a Business Information Technology student, Software Developer, and aspiring Cybersecurity Expert from South Africa 🇿🇦.
+I'm a Business Information Technology student, Software Developer, and AI enthusiast from South Africa 🇿🇦.
 
-I enjoy building modern web and mobile applications, solving real-world problems with technology, and exploring AI-driven solutions. I’m passionate about creating impactful systems, learning new technologies, and continuously improving my development skills.
+I enjoy building modern web and mobile applications, solving real-world problems with technology, and exploring AI-driven solutions.
 
 - 🎓 BIT Student at the University of Johannesburg
-- 💻 AI Entusiast
-- 🌱 Currently learning advanced full-stack development & AI integrations
-- ⚡ Interested in Software Development, Cybersecurity, AI, and Mobile Apps
+- 💻 Passionate about Full-Stack Development & AI
+- 🌱 Currently learning advanced AI integrations and scalable systems
+- ⚡ Interested in Software Development, Cybersecurity, and Mobile Apps
 - 🏆 Project Day Winner with Team "The Creed"
 
 ---
@@ -16,52 +16,31 @@ I enjoy building modern web and mobile applications, solving real-world problems
 ## 🛠️ Tech Stack
 
 ### Frontend
-- React.js
-- Next.js
-- React Native
-- HTML5
-- CSS3
-- JavaScript
+React.js • Next.js • React Native • HTML5 • CSS3 • JavaScript
 
-### Backend
-- Node.js
-- Firebase
-- Supabase
+### Backend & Database
+Node.js • Firebase • Supabase • MySQL
 
 ### Programming Languages
-- JavaScript
-- Python
-- C#
-
-### Database & Cloud
-- Firebase
-- Supabase
-- MySQL
+JavaScript • Python • C#
 
 ### Tools & Technologies
-- Git & GitHub
-- VS Code
-- Expo
-- REST APIs
-- Figma
-
+Git & GitHub • VS Code • Expo • REST APIs • Figma
 ---
+## 📱 Featured Projects
 
-## 📱 Projects
 - 🚀 AyaSabios Platform
 - 💰 BizBoost Financial App
 - 🎬 Grizzy-Anime Streaming Platform
 - 🛡️ Cybersecurity & AI Projects
-- 📚 Y2K LMS 
-
+- 📚 Y2K LMS
 ---
-
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/mbongeni-qwabe-88506140a
-- Portfolio: https://mbongeni-qwabe.vercel.app
+
+- LinkedIn: www.linkedin.com/in/mbongeni-qwabe-88506140a
+- Portfolio: mbongeni-qwabe.vercel.app
 - Email: qwabembongeni074@gmail.com
 
 ---
-
-## ⚡ Fun Fact
-I love chess like i literally play it in my head and every single day 
+## ♟️ Fun Fact
+I love chess — I literally play games in my head every single day.

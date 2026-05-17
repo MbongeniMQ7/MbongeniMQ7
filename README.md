@@ -38,7 +38,7 @@ Git & GitHub • VS Code • Expo • REST APIs • Figma
 ## 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/mbongeni-qwabe-88506140a
-- Portfolio: mbongeni-qwabe.vercel.app
+- Portfolio: https://mbongeni-qwabe.vercel.app
 - Email: qwabembongeni074@gmail.com
 
 ---

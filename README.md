@@ -44,3 +44,8 @@ Git & GitHub • VS Code • Expo • REST APIs • Figma
 ---
 ## ♟️ Fun Fact
 I love chess — I literally play games in my head every single day.
+
+## 📊 GitHub Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=MbongeniMQ7&theme=default&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api?username=MbongeniMQ7&theme=default&show_icons=true&hide_border=false&count_private=true)
